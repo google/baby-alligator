@@ -26,7 +26,7 @@ Business Profile in a set timeframe.
 
 Before you can send requests to the Business Profile APIs, you need to
 create/own a GCP (Google Cloud Platform) project. You can go
-[here](https://pantheon.corp.google.com/welcome) to create your new GCP project.
+[here](https://console.cloud.google.com/getting-started) to create your new GCP project.
 To create a new project click <button>Create project</button>, enter a name, and
 click Create.
 
@@ -36,7 +36,7 @@ to request access to the Business Profile APIs for that project.
 In order to run the solution you should first enable your account as **Test
 User**:
 
--   Go to [Google API Console](https://pantheon.corp.google.com/welcome) and
+-   Go to [Google API Console](https://console.cloud.google.com) and
     select the project you created for use with Business Profile.
 -   On the left side menu click on **API & Services**
 -   On the left side menu click on **Oauth consent screen**
