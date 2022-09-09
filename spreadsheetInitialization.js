@@ -175,5 +175,3 @@ function init_() {
   }
   doc.setActiveSheet(configSheet);
 }
-# baby-alligator
-# baby-alligator
