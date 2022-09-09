@@ -6,12 +6,12 @@ DISCLAIMER: This is not an officially supported Google product.
 
 1.  [About](#About)
 2.  [Setup](#Setup)
-    1.  [Google Cloud](#Google Cloud)
-        1.  [Request access to the APIs](#Request access to the APIs)
+    1.  [Google Cloud](#Google-Cloud)
+        1.  [Request access to the APIs](#Request-access-to-the-APIs)
     2.  [Spreadsheet](#Spreadsheet)
-3.  [First run](#First run)
-    1.  [Change your configuration](#Change your configuration)
-4.  [Wrapping up](#Wrapping up)
+3.  [First run](#First-run)
+    1.  [Change your configuration](#Change-your-configuration)
+4.  [Wrapping up](#Wrapping-up)
 
 ## About
 
