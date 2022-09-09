@@ -146,5 +146,3 @@ that they are being gradually retrieved.
 
 Remember to always click on <button>Collect GBP Data</button> and select *Reset
 and use new config* to apply any configuration change.
-# baby-alligator
-# baby-alligator
