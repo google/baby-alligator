@@ -1,6 +1,6 @@
 DISCLAIMER: This is not an officially supported Google product.
 
-# Baby Alligator upload script
+# Baby Alligator
 
 ## Table of Contents
 
