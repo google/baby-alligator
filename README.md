@@ -42,6 +42,11 @@ User**:
 -   On the left side menu click on **Oauth consent screen**
 -   In the **Test users** section click on **Add User** and insert the email of
     the Google account used to access Google services.
+-   Now on the left side menu click on **API & Services** and then on **Enabled APIs & services**
+-   Click on the top menu over **+ ENABLE APIS AND SERVICES** 
+-   Search for **My Business Account Management API** and click it
+-   Enable the API
+    
 
 #### Request access to the APIs
 
@@ -109,10 +114,12 @@ Open now the **Configuration** sheet and fill as follows:
 "Weeks of retention". If you have 900+ locations we recommend not to increase it
 and, if possible, to reduce it.***
 
-Now click again on <button>Collect GBP Data</button> and select *Collect
+Click again on <button>Collect GBP Data</button> and select *Collect
 locations and insights*. This will start the process to retrieve all the
 locations and insights for your filtered accounts within the defined retention
 period. This process could last up to a few days.
+
+***NOTE: It is required to select AT LEAST one account that contains at least one valid (for your filters, if any) location in order for the script to work properly.***
 
 Once completed a weekly trigger will update the insights with new data while
 erasing the oldest entries.
