@@ -766,6 +766,10 @@ function retrieveLocationInsights_(
     if (page['error']) {
       customLog_(page['error']['message']);
       if (retryCount < MAX_BATCH_RETRY) {
+        if ( Object.keys(locationsToFetch).length === 0) {
+          customLog_(`Ignored Retry #${retryCount} due to no locations left`);
+          return []; // Empty array, no element to add
+        }  
         // Best effort retry approach, removing first location of batch each
         // time.
         delete locationsToFetch[Object.keys(locationsToFetch)[0]];
